@@ -13,7 +13,7 @@ name = "X/Twitter"
 url = "https://x.com/ea1jay"
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-x"
 
 [[social]]
 identifier = "github"
