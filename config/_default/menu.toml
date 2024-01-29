@@ -8,6 +8,14 @@
 #newtab = true
 
 [[social]]
+identifier = "qrz"
+name = "QRZ"
+url = "https://qrz.com/db/ea1jay"
+
+[social.params]
+icon = "user-scan"
+
+[[social]]
 identifier = "twitter"
 name = "X/Twitter"
 url = "https://x.com/ea1jay"
